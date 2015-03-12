@@ -1,6 +1,8 @@
 package com.example.alae;
 
 import android.support.v7.app.ActionBarActivity;
+import android.support.v7.widget.GridLayout;
+
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
