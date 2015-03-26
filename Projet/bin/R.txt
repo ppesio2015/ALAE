@@ -349,7 +349,6 @@ int drawable abc_textfield_search_activated_mtrl_alpha 0x7f020030
 int drawable abc_textfield_search_default_mtrl_alpha 0x7f020031
 int drawable abc_textfield_search_material 0x7f020032
 int drawable ic_launcher 0x7f020033
-int id RelativeLayout1 0x7f090050
 int id action_bar 0x7f090042
 int id action_bar_activity_content 0x7f090003
 int id action_bar_container 0x7f090041
@@ -363,16 +362,16 @@ int id action_menu_presenter 0x7f090006
 int id action_mode_bar 0x7f09003f
 int id action_mode_bar_stub 0x7f09003e
 int id action_mode_close_button 0x7f090031
-int id action_settings 0x7f090055
+int id action_settings 0x7f090053
 int id activity_chooser_view_content 0x7f090032
 int id alignBounds 0x7f09000b
 int id alignMargins 0x7f09000c
 int id always 0x7f090026
 int id beginning 0x7f09002d
 int id bottom 0x7f09000d
-int id button1 0x7f090052
-int id button2 0x7f090054
-int id button3 0x7f090053
+int id button1 0x7f090050
+int id button2 0x7f090051
+int id button3 0x7f090052
 int id center 0x7f09000e
 int id center_horizontal 0x7f09000f
 int id center_vertical 0x7f090010
@@ -423,7 +422,6 @@ int id shortcut 0x7f09003b
 int id showCustom 0x7f090022
 int id showHome 0x7f090023
 int id showTitle 0x7f090024
-int id space1 0x7f090051
 int id split_action_bar 0x7f090004
 int id start 0x7f090019
 int id submit_area 0x7f09004d
